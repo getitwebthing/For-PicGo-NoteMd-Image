@@ -1,3 +1,7 @@
 # For-PicGo-NoteMd-Image
-token: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
-token_pic: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
+
+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
+
+https://cdn.jsdelivr.net/gh/getitwebthing/For-PicGo-NoteMd-Image/@main
+
+https://raw.githubusercontent.com/getitwebthing/For-PicGo-NoteMd-Image/main
