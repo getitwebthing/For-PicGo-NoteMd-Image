@@ -2,7 +2,7 @@
 
 getitwebthing/For-PicGo-NoteMd-Image
 
-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
+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
 
 https://cdn.jsdelivr.net/gh/getitwebthing/For-PicGo-NoteMd-Image/@main
 
